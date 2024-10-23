@@ -3,7 +3,7 @@
 **Disclaimer:**  
 This guide is for **educational purposes only**. Unauthorized access or testing is **illegal**. Use only in authorized environments with proper permission.
 
-## Exploit Steps
+## Steps
 
 ```bash
 # 1. Navigate to the user folder
